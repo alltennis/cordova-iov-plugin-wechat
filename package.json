@@ -1,0 +1,66 @@
+{
+  "_from": "cordova-iov-plugin-wechat",
+  "_id": "cordova-iov-plugin-wechat@1.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-x63QifAZwdoh5ibKeBGQ+eaK00ooOim4dNmpHMvwHMHCz28TfbPsjUof2N74d7TlG8zou9YqGy+GqHjAOQrCqA==",
+  "_location": "/cordova-iov-plugin-wechat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-iov-plugin-wechat",
+    "name": "cordova-iov-plugin-wechat",
+    "escapedName": "cordova-iov-plugin-wechat",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-iov-plugin-wechat/-/cordova-iov-plugin-wechat-1.3.0.tgz",
+  "_shasum": "52b577f5f6504fac44ee508ed1ac3f2d8ea9fd4f",
+  "_spec": "cordova-iov-plugin-wechat",
+  "_where": "/media_files/works/projects/alltennis/front/cordova/alltennis",
+  "author": {
+    "name": "xu.li",
+    "email": "AthenaLightenedMyPath@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/xu-li/cordova-plugin-wechat/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-wechat",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "A cordova plugin, a JS version of Wechat SDK",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "homepage": "https://github.com/xu-li/cordova-plugin-wechat#readme",
+  "keywords": [
+    "cordova",
+    "wechat",
+    "weixin",
+    "share",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-iov-plugin-wechat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xu-li/cordova-plugin-wechat.git"
+  },
+  "version": "1.3.0"
+}
